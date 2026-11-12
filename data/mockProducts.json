@@ -1,0 +1,502 @@
+[
+  {
+    "barcode": "5000112637588",
+    "name": "Tropicana Orange Juice",
+    "category": "Juice",
+    "ingredients": [
+      "Water",
+      "Orange Juice Concentrate (12%)",
+      "Sugar",
+      "Citric Acid",
+      "Natural Flavors",
+      "Ascorbic Acid (Vitamin C)",
+      "Beta-Carotene (Color)",
+      "Sodium Benzoate (Preservative)",
+      "Potassium Sorbate (Preservative)"
+    ]
+  },
+  {
+    "barcode": "0001600011111",
+    "name": "Nature Valley Granola Bar",
+    "category": "Snack Bar",
+    "ingredients": [
+      "Whole Grain Oats",
+      "Sugar",
+      "Canola Oil",
+      "Rice Flour",
+      "Honey",
+      "Brown Sugar Syrup",
+      "Salt",
+      "Baking Soda",
+      "Soy Lecithin",
+      "Natural Flavor"
+    ]
+  },
+  {
+    "barcode": "0001800022222",
+    "name": "Coca-Cola Classic",
+    "category": "Soda",
+    "ingredients": [
+      "Carbonated Water",
+      "High Fructose Corn Syrup",
+      "Caramel Color",
+      "Phosphoric Acid",
+      "Natural Flavors",
+      "Caffeine"
+    ]
+  },
+  {
+    "barcode": "0001900033333",
+    "name": "Lay's Classic Potato Chips",
+    "category": "Snack",
+    "ingredients": [
+      "Potatoes",
+      "Vegetable Oil (Sunflower, Corn, and/or Canola Oil)",
+      "Salt"
+    ]
+  },
+  {
+    "barcode": "0002000044444",
+    "name": "Kellogg's Frosted Flakes",
+    "category": "Cereal",
+    "ingredients": [
+      "Milled Corn",
+      "Sugar",
+      "Malt Flavor",
+      "Contains 2% or Less of Salt",
+      "BHT for Freshness",
+      "Vitamins and Minerals: Iron",
+      "Vitamin C (Sodium Ascorbate)",
+      "Vitamin E (Alpha Tocopherol Acetate)",
+      "Niacinamide",
+      "Vitamin B6 (Pyridoxine Hydrochloride)",
+      "Vitamin B2 (Riboflavin)",
+      "Vitamin B1 (Thiamin Hydrochloride)",
+      "Folic Acid",
+      "Vitamin D3",
+      "Vitamin B12"
+    ]
+  },
+  {
+    "barcode": "0002100055555",
+    "name": "Red Bull Energy Drink",
+    "category": "Energy Drink",
+    "ingredients": [
+      "Carbonated Water",
+      "Sucrose",
+      "Glucose",
+      "Citric Acid",
+      "Taurine",
+      "Sodium Bicarbonate",
+      "Magnesium Carbonate",
+      "Caffeine",
+      "Niacinamide",
+      "Calcium Pantothenate",
+      "Pyridoxine HCl",
+      "Vitamin B12",
+      "Natural and Artificial Flavors",
+      "Colors"
+    ]
+  },
+  {
+    "barcode": "0002200066666",
+    "name": "Nutella Hazelnut Spread",
+    "category": "Spread",
+    "ingredients": [
+      "Sugar",
+      "Palm Oil",
+      "Hazelnuts (13%)",
+      "Skim Milk Powder",
+      "Cocoa Powder (7.4%)",
+      "Lecithin as Emulsifier (Soy)",
+      "Vanillin (Artificial Flavor)"
+    ]
+  },
+  {
+    "barcode": "0002300077777",
+    "name": "Pringles Original",
+    "category": "Snack",
+    "ingredients": [
+      "Dried Potatoes",
+      "Vegetable Oil (Corn, Cottonseed, High Oleic Soybean, and/or Sunflower Oil)",
+      "Degerminated Yellow Corn Flour",
+      "Cornstarch",
+      "Rice Flour",
+      "Maltodextrin",
+      "Mono- and Diglycerides",
+      "Salt",
+      "Wheat Starch"
+    ]
+  },
+  {
+    "barcode": "0002400088888",
+    "name": "Yakult Probiotic Drink",
+    "category": "Probiotic Beverage",
+    "ingredients": [
+      "Water",
+      "Skim Milk Powder",
+      "Glucose-Fructose Syrup",
+      "Sugar",
+      "Natural Flavors",
+      "Lactobacillus Casei Shirota (Probiotic)"
+    ]
+  },
+  {
+    "barcode": "0002500099999",
+    "name": "Clif Bar - Chocolate Chip",
+    "category": "Energy Bar",
+    "ingredients": [
+      "Organic Brown Rice Syrup",
+      "Organic Rolled Oats",
+      "Soy Protein Isolate",
+      "Organic Cane Syrup",
+      "Organic Roasted Soybeans",
+      "Rice Flour",
+      "Organic Oat Fiber",
+      "Organic Soy Flour",
+      "Chocolate Chips (Organic Cane Sugar, Chocolate Liquor, Cocoa Butter, Soy Lecithin, Vanilla Extract)",
+      "Organic High Oleic Sunflower Oil",
+      "Natural Flavors",
+      "Sea Salt",
+      "Organic Cinnamon",
+      "Barley Malt Extract"
+    ]
+  },
+  {
+    "barcode": "0002600111111",
+    "name": "Monster Energy Ultra",
+    "category": "Energy Drink",
+    "ingredients": [
+      "Carbonated Water",
+      "Erythritol",
+      "Citric Acid",
+      "Taurine",
+      "Sodium Citrate",
+      "Natural Flavor",
+      "Panax Ginseng Extract",
+      "Caffeine",
+      "Sorbic Acid (Preservative)",
+      "Sucralose",
+      "Acesulfame Potassium",
+      "L-Carnitine L-Tartrate",
+      "Niacinamide (Vitamin B3)",
+      "D-Calcium Pantothenate (Vitamin B5)",
+      "Pyridoxine Hydrochloride (Vitamin B6)",
+      "Cyanocobalamin (Vitamin B12)"
+    ]
+  },
+  {
+    "barcode": "0002700122222",
+    "name": "Gatorade Lemon-Lime",
+    "category": "Sports Drink",
+    "ingredients": [
+      "Water",
+      "Sugar",
+      "Dextrose",
+      "Citric Acid",
+      "Salt",
+      "Sodium Citrate",
+      "Monopotassium Phosphate",
+      "Natural Flavor",
+      "Yellow 5"
+    ]
+  },
+  {
+    "barcode": "0002800133333",
+    "name": "Ben & Jerry's Chocolate Fudge Brownie",
+    "category": "Ice Cream",
+    "ingredients": [
+      "Cream",
+      "Skim Milk",
+      "Liquid Sugar (Sugar, Water)",
+      "Water",
+      "Sugar",
+      "Wheat Flour",
+      "Cocoa Processed with Alkali",
+      "Egg Yolks",
+      "Brown Sugar",
+      "Coconut Oil",
+      "Soybean Oil",
+      "Butter (Cream, Salt)",
+      "Guar Gum",
+      "Carrageenan",
+      "Natural Flavor",
+      "Vanilla Extract",
+      "Salt",
+      "Baking Soda"
+    ]
+  },
+  {
+    "barcode": "0002900144444",
+    "name": "KIND Bar - Almond & Coconut",
+    "category": "Snack Bar",
+    "ingredients": [
+      "Almonds",
+      "Chicory Root Fiber",
+      "Honey",
+      "Palm Kernel Oil",
+      "Sugar",
+      "Glucose Syrup",
+      "Coconut",
+      "Rice Flour",
+      "Soy Lecithin",
+      "Sea Salt",
+      "Natural Flavor",
+      "Carob Powder"
+    ]
+  },
+  {
+    "barcode": "0003000155555",
+    "name": "Dove Dark Chocolate",
+    "category": "Chocolate",
+    "ingredients": [
+      "Sugar",
+      "Chocolate",
+      "Cocoa Butter",
+      "Skim Milk Powder",
+      "Milkfat",
+      "Soy Lecithin",
+      "Natural Vanilla Flavor"
+    ]
+  },
+  {
+    "barcode": "0003100166666",
+    "name": "Quaker Instant Oatmeal - Maple & Brown Sugar",
+    "category": "Oatmeal",
+    "ingredients": [
+      "Whole Grain Rolled Oats",
+      "Sugar",
+      "Natural and Artificial Flavor",
+      "Salt",
+      "Calcium Carbonate",
+      "Guar Gum",
+      "Caramel Color",
+      "Ferric Phosphate (Iron)",
+      "Niacinamide",
+      "Vitamin A Palmitate",
+      "Pyridoxine Hydrochloride",
+      "Riboflavin",
+      "Thiamin Mononitrate",
+      "Folic Acid"
+    ]
+  },
+  {
+    "barcode": "0003200177777",
+    "name": "Lays Baked Original",
+    "category": "Baked Snack",
+    "ingredients": [
+      "Dried Potatoes",
+      "Cornstarch",
+      "Sugar",
+      "Corn Oil",
+      "Salt",
+      "Soy Lecithin",
+      "Corn Sugar"
+    ]
+  },
+  {
+    "barcode": "0003300188888",
+    "name": "Smartwater",
+    "category": "Water",
+    "ingredients": [
+      "Vapor Distilled Water",
+      "Calcium Chloride",
+      "Magnesium Chloride",
+      "Potassium Bicarbonate"
+    ]
+  },
+  {
+    "barcode": "0003400199999",
+    "name": "Chobani Greek Yogurt - Vanilla",
+    "category": "Yogurt",
+    "ingredients": [
+      "Cultured Nonfat Milk",
+      "Cane Sugar",
+      "Water",
+      "Natural Flavors",
+      "Fruit Pectin",
+      "Guar Gum",
+      "Locust Bean Gum",
+      "Lemon Juice Concentrate",
+      "Milk Protein Concentrate",
+      "Live and Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei"
+    ]
+  },
+  {
+    "barcode": "0003500211111",
+    "name": "Vitamin Water XXX",
+    "category": "Enhanced Water",
+    "ingredients": [
+      "Reverse Osmosis Water",
+      "Crystalline Fructose",
+      "Cane Sugar",
+      "Less than 0.5% of: Vitamins C, B3, B5, B6, B12",
+      "Citric Acid",
+      "Vegetable Juice (Color)",
+      "Natural Flavor",
+      "Fruit and Vegetable Juice (Color)",
+      "Modified Food Starch",
+      "Acai Puree"
+    ]
+  },
+  {
+    "barcode": "0003600222222",
+    "name": "Starbucks Frappuccino - Mocha",
+    "category": "Coffee Beverage",
+    "ingredients": [
+      "Brewed Starbucks Coffee (Water, Coffee)",
+      "Reduced-Fat Milk",
+      "Sugar",
+      "Maltodextrin",
+      "Pectin",
+      "Cocoa Powder Processed with Alkali",
+      "Natural and Artificial Flavors",
+      "Ascorbic Acid"
+    ]
+  },
+  {
+    "barcode": "0003700233333",
+    "name": "Thomas' English Muffins",
+    "category": "Bread",
+    "ingredients": [
+      "Enriched Wheat Flour (Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamin Mononitrate, Riboflavin, Folic Acid)",
+      "Water",
+      "Yeast",
+      "Farina",
+      "Corn Meal",
+      "Soybean Oil",
+      "Sugar",
+      "Salt",
+      "Preservatives (Calcium Propionate, Sorbic Acid)",
+      "Mono- and Diglycerides",
+      "Datem"
+    ]
+  },
+  {
+    "barcode": "0003800244444",
+    "name": "Pepperidge Farm Goldfish Crackers",
+    "category": "Snack Crackers",
+    "ingredients": [
+      "Enriched Wheat Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid)",
+      "Cheddar Cheese (Milk, Cultures, Salt, Enzymes)",
+      "Canola and/or Sunflower Oil",
+      "Salt",
+      "Yeast",
+      "Sugar",
+      "Autolyzed Yeast",
+      "Baking Soda",
+      "Monocalcium Phosphate",
+      "Paprika",
+      "Spices",
+      "Celery",
+      "Onion Powder"
+    ]
+  },
+  {
+    "barcode": "0003900255555",
+    "name": "Naked Juice - Green Machine",
+    "category": "Smoothie",
+    "ingredients": [
+      "Apple Juice",
+      "Mango Puree",
+      "Pineapple Juice",
+      "Banana Puree",
+      "Kiwi Puree",
+      "Spirulina",
+      "Natural Flavor",
+      "Broccoli",
+      "Spinach",
+      "Blue Green Algae",
+      "Garlic",
+      "Barley Grass",
+      "Wheat Grass",
+      "Ginger Root",
+      "Parsley"
+    ]
+  },
+  {
+    "barcode": "0004000266666",
+    "name": "Arizona Green Tea with Honey",
+    "category": "Iced Tea",
+    "ingredients": [
+      "Premium Brewed Green Tea Using Filtered Water",
+      "High Fructose Corn Syrup",
+      "Honey",
+      "Citric Acid",
+      "Natural Flavors",
+      "Ascorbic Acid (Vitamin C)",
+      "Ginseng Extract"
+    ]
+  },
+  {
+    "barcode": "0004100277777",
+    "name": "Snickers Bar",
+    "category": "Candy Bar",
+    "ingredients": [
+      "Milk Chocolate (Sugar, Cocoa Butter, Chocolate, Skim Milk, Lactose, Milkfat, Soy Lecithin)",
+      "Peanuts",
+      "Corn Syrup",
+      "Sugar",
+      "Palm Oil",
+      "Skim Milk",
+      "Lactose",
+      "Salt",
+      "Egg Whites",
+      "Artificial Flavor"
+    ]
+  },
+  {
+    "barcode": "0004200288888",
+    "name": "Oreo Cookies",
+    "category": "Cookie",
+    "ingredients": [
+      "Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid)",
+      "Sugar",
+      "Palm and/or Canola Oil",
+      "Cocoa (Processed with Alkali)",
+      "High Fructose Corn Syrup",
+      "Leavening (Baking Soda and/or Calcium Phosphate)",
+      "Salt",
+      "Soy Lecithin",
+      "Chocolate",
+      "Artificial Flavor"
+    ]
+  },
+  {
+    "barcode": "0004300299999",
+    "name": "Powerade Mountain Berry Blast",
+    "category": "Sports Drink",
+    "ingredients": [
+      "Water",
+      "High Fructose Corn Syrup",
+      "Less than 0.5% of: Citric Acid",
+      "Salt and Mono-Potassium Phosphate and Magnesium Chloride and Calcium Chloride (Electrolyte Sources)",
+      "Natural Flavors",
+      "Modified Food Starch",
+      "Calcium Disodium EDTA (to Protect Color)",
+      "Vitamin B3 (Niacinamide)",
+      "Vitamin B6 (Pyridoxine Hydrochloride)",
+      "Vitamin B12",
+      "Blue 1",
+      "Red 40"
+    ]
+  },
+  {
+    "barcode": "0004400311111",
+    "name": "Hint Water - Watermelon",
+    "category": "Flavored Water",
+    "ingredients": [
+      "Purified Water",
+      "Natural Watermelon Flavor"
+    ]
+  },
+  {
+    "barcode": "0004500322222",
+    "name": "LaCroix Sparkling Water - Lime",
+    "category": "Sparkling Water",
+    "ingredients": [
+      "Carbonated Water",
+      "Natural Flavor"
+    ]
+  }
+]
